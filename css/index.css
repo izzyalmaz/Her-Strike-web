@@ -1,0 +1,69 @@
+body{
+	margin: 0;
+}
+
+header{
+	background-color: #CD884A;
+	text-align: center;
+}
+
+header img{
+	height: 200px;
+	width: auto;
+	padding: 50px;
+}
+
+body h2{
+	font-family: Montserrat ExtraBold, sans-serif;
+	color: #CD884A;
+	font-size: 30px;
+}
+
+body p{
+	font-family: bodoni-urw, serif;
+	font-weight: 300;
+	font-size: 17px;
+	font-style: normal;
+}
+
+a{
+	color: #CD884A;
+}
+a:hover{
+	color: #A25827;
+}
+
+ol{
+	font-family: bodoni-urw, serif;
+	font-weight: 300;
+	font-size: 17px;
+	font-style: normal;
+}
+
+ul{
+	font-family: bodoni-urw, serif;
+	font-weight: 300;
+	font-size: 17px;
+	font-style: normal;
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+	padding: 0 20px 20px 20px;
+}
+
+main img{
+	max-width: 100%;
+}
+
+footer{
+	background-color: #CD884A;
+	text-align: center;
+	width: auto;
+	padding: 200px 0px 10px 0px;
+}
+
+footer p{
+	color: white;
+}
